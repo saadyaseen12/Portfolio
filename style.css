@@ -1,0 +1,42 @@
+.main_div{
+position: relative;
+    
+}
+
+.div_one{
+position: absolute;
+top: 10px;
+
+color: #fff;
+padding: 250px;
+text-align: center;
+
+}
+
+.div_two{
+
+    text-align: center;
+}
+.div_three{
+text-align: center;
+}
+
+.div_four{
+text-align: center;
+}
+
+.div_five{
+text-align: center;
+
+}
+
+.div_six{
+
+text-align: center;
+
+}
+
+.div_seven{
+
+    text-align: center;
+}
